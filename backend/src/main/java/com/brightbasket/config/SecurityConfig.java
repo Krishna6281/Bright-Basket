@@ -63,9 +63,10 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
 
         // Allowed origins (your React app)
-        config.setAllowedOrigins(List.of(
-                "http://localhost:8080",
-                "http://localhost:5173"));
+        config.setAllowedOriginPatterns(List.of(
+            "http://localhost:*",
+            "https://*.vercel.app"
+        ));
 
         // Allowed HTTP methods
         config.setAllowedMethods(List.of(
