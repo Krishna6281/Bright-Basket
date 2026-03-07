@@ -41,6 +41,7 @@ C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbas
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\exception\ResourceNotFoundException.java
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\exception\UserAlreadyExistsException.java
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\service\AdminService.java
+C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\config\CorsConfig.java
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\controller\AuthController.java
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\exception\BadRequestException.java
 C:\Users\hp\Desktop\1212\finalcode\finalcode\backend\src\main\java\com\brightbasket\repository\OrderItemRepository.java
